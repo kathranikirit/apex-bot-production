@@ -1,13 +1,13 @@
+web application/stitch/projects/12538483303495146642/screens/d7bb79499bfb48ec9873e6104569e3a6
 {
   "name": "apex-ai-bot",
   "version": "1.0.0",
   "description": "AI-driven lead generation and support platform for Apex AI BOT",
   "main": "backend/api/whatsapp.js",
   "scripts": {
-    "start": "node backend/api/whatsapp.js",
     "dev": "next dev",
     "build": "next build",
-    "start-frontend": "next start",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
