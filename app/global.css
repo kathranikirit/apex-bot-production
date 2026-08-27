@@ -1,0 +1,20 @@
+web application/stitch/projects/12538483303495146642/screens/333c42739b104fc3b8af7a363dc7ba19
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 27, 61;
+  --background-start-rgb: 248, 249, 255;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
