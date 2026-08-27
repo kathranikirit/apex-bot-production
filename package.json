@@ -1,4 +1,4 @@
-web application/stitch/projects/12538483303495146642/screens/adfa34a5388342bea9cfe9136e5b8e5c
+web application/stitch/projects/12538483303495146642/screens/74244269944049c3bb459c71fb7d41a4
 {
   "name": "apex-ai-bot",
   "version": "1.0.0",
@@ -20,26 +20,4 @@ web application/stitch/projects/12538483303495146642/screens/adfa34a5388342bea9c
     "react-dom": "^18.2.0",
     "lucide-react": "^0.292.0"
   }
-}
-{ 
-  "name": "apex-ai-bot", 
-  "version": "1.0.0", 
-  "description": "AI-driven lead generation and support platform for Apex AI BOT", 
-  "main": "backend/api/whatsapp.js", 
-  "scripts": { 
-    "start": "node backend/api/whatsapp.js", 
-    "dev": "next dev", 
-    "build": "next build", 
-    "start-frontend": "next start", 
-    "lint": "next lint"
-  }, 
-  "dependencies": { 
-    "@supabase/supabase-js": "^2.39.0", 
-    "axios": "^1.6.2", 
-    "express": "^4.18.2", 
-    "next": "14.2.15", 
-    "react": "^18.2.0", 
-    "react-dom": "^18.2.0", 
-    "lucide-react": "^0.292.0" 
-  } 
 }
